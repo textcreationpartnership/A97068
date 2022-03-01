@@ -1,0 +1,192 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Petitions against bishops and their votes in Parliament, subscrib'd unto after a clandestine, deliver'd after a tumultuous manner, and falsly going under the name of a whole county or towne, proved to be both contrary to our late taken protestation, as also utterly unlawfull by many other cleere and evident reasons. First written for satisfaction of some private men, and now published for the good of others. By J.W.</title>
+            <author>J. W.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97068</idno>
+            <idno type="STC">Wing W62</idno>
+            <idno type="STC">Thomason E133_10</idno>
+            <idno type="STC">ESTC R19922</idno>
+            <idno type="EEBO-CITATION">99860779</idno>
+            <idno type="PROQUEST">99860779</idno>
+            <idno type="VID">112904</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97068)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112904)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 24:E133[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Petitions against bishops and their votes in Parliament, subscrib'd unto after a clandestine, deliver'd after a tumultuous manner, and falsly going under the name of a whole county or towne, proved to be both contrary to our late taken protestation, as also utterly unlawfull by many other cleere and evident reasons. First written for satisfaction of some private men, and now published for the good of others. By J.W.</title>
+                  <author>J. W.</author>
+               </titleStmt>
+               <extent>[2], 17, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A. N. for Richard Lownds, at his shop adjoying to Ludgate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Bishops --  Temporal power --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112904:1"/>
+            <pb facs="tcp:112904:1" rendition="simple:additions"/>
+            <p>PETITIONS AGAINST BISHOPS And their Votes in Parliament, ſubſcrib'd unto after a Clandeſtine, deliver'd after a tumultuous manner, and falſly going under the name of a whole County or Towne, proved to be both contrary to our late taken PROTESTA<g ref="char:EOLhyphen"/>TION, as alſo utterly unlawfull by many other cleere and evi<g ref="char:EOLhyphen"/>dent Reaſons: Firſt written for ſatisfaction of ſome private men, and now publiſhed for the good of others.</p>
+            <p>By <hi>J. W.</hi>
+            </p>
+            <p>LONDON, Printed by <hi>A. N.</hi> for <hi>Richard Lownds,</hi> at his ſhop adjoyning to <hi>Ludgate,</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:112904:2"/>
+            <pb n="1" facs="tcp:112904:2"/>
+            <opener>
+               <salute>Mr. <hi>Cachiſm,</hi>
+               </salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">F</seg>Or your ſatisfaction, why I have ſeverall times refuſed to ſubſcribe your Petition, You may pleaſe to underſtand, that for the good of the Common-weal, Coun<g ref="char:EOLhyphen"/>ty, or Pariſh wherein I live, I ſhall be al<g ref="char:EOLhyphen"/>ways ready and willing to give not only my hand, but my heart and purſe likewiſe: For the publike welfare whereof I have beene both active and paſſive for ſeverall yeares to<g ref="char:EOLhyphen"/>gether.</p>
+            <p>But for mee who am but a private Sub<g ref="char:EOLhyphen"/>ject, A Proteſtant, and no Law-maker, to give my hand in a Factious way, and with<g ref="char:EOLhyphen"/>out command from Authority, to will, that
+<pb n="2" facs="tcp:112904:3"/>there ſhall be no Biſhops, and that they ſhall have no voice in the Houſe of Peeres, is a<g ref="char:EOLhyphen"/>gainſt my Conſcience, and that light of Reaſon and Vnderſtanding which I have re<g ref="char:EOLhyphen"/>ceived: And I dare not comply with the Diſtempers of the people, and follow the ſtream of a Multitude to doe evill, on theſe grounds following.</p>
+            <p>Firſt, Becauſe I have by the Example and Recommendation of the Parliament, ſo<g ref="char:EOLhyphen"/>lemnly taken the Proteſtation: Whereby I have ſeriouſly Proteſted, to Maintaine and Defend as far as lawfully I may the true Re<g ref="char:EOLhyphen"/>formed Proteſtant Religion, expreſſed in the Doctrine of the Church of <hi>England,</hi> againſt all Popery, and Popiſh innovations, contra<g ref="char:EOLhyphen"/>ry to the ſaid Doctrine. Now in the thirtie ſixth Article of the ſaid expreſſed Doctrine, the Office of Biſhops is incluſively confir<g ref="char:EOLhyphen"/>med.</p>
+            <p>Secondly, I am engaged thereby alſo, to mayntain and defend the Powers, and Pri<g ref="char:EOLhyphen"/>vileges of Parliaments, which is chiefly to be underſtood of the eſtabliſhed Laws con<g ref="char:EOLhyphen"/>cerning the ſame. Now ſeverall Acts of Par<g ref="char:EOLhyphen"/>liament
+<pb n="3" facs="tcp:112904:3"/>doe not only confirme, as aforeſaid, the Office of a Biſhop, but by the powers and privileges of thoſe Acts of Parliament, they are alſo to ſit as Members of the Lords Houſe.</p>
+            <p>Thirdly, I am bound by the ſaid Prote<g ref="char:EOLhyphen"/>ſtation, to mayntain and defend the lawfull rights &amp; liberties of the Subject (And if this extends to every ſubject in particular, much more to Parliament Men) Now they be<g ref="char:EOLhyphen"/>ing ſubjects, and their Rights and Liberties being lawfull, I am bound to mayntaine them as farre as lawfully I may, in thoſe lawfull Rights and Liberties. Againe, the making and repealing of Laws, for the good of the Common-wealth, is a ſpeciall and peculiar power, privilege, and right, proper only to Parliaments, therefore not to be for<g ref="char:EOLhyphen"/>ced or coacted by mee being no Parliament man. For that may be lawfull and war<g ref="char:EOLhyphen"/>rantable in my Governours to do by reaſon, which is altogether unlawfull &amp; unwarran<g ref="char:EOLhyphen"/>table in me to require by Will. This is rather to be a tyrannicall ludge, then a legall Wit<g ref="char:EOLhyphen"/>neſſe, to breake Lawes rather then preſerve
+<pb n="4" facs="tcp:112904:4"/>them, and inſtead of Reformation to bring in Confuſion.</p>
+            <p>Fourthly, I am likewiſe obliged to mayn<g ref="char:EOLhyphen"/>tain and defend the Kings Royall Perſon, Honour, and Eſtate, and to preſerve the V<g ref="char:EOLhyphen"/>nion and Peace betweene his three King<g ref="char:EOLhyphen"/>domes (much more amongſt our ſelves.) Now there is no better way thereunto, then to keep his laws: For both the honour and ſafety of the King, the liberty and peace of the Kingdome, and welfare of them both, are involved in them.</p>
+            <p>Fiftly, I am engaged alſo to oppoſe, as far as lawfully I may, and by all good ways and meanes to bring to condigne puniſh<g ref="char:EOLhyphen"/>ment, all ſuch as ſhall either by force, pra<g ref="char:EOLhyphen"/>ctice, Counſels, plots, or Conſpiracies, do any thing to the contrary of any thing in that preſent Proteſtation contained. How then dare I be ſo farre from bringing to condigne puniſhment the offenders, that I ſhall wilful<g ref="char:EOLhyphen"/>ly conſent to the breach of it, and procure o<g ref="char:EOLhyphen"/>thers thereunto, by practice, plots, conſpira<g ref="char:EOLhyphen"/>cies or the like?</p>
+            <p>Sixthly, I am neither for hope, feare, fa<g ref="char:EOLhyphen"/>vour,
+<pb n="5" facs="tcp:112904:4"/>or other reſpect whatſoever, to relin<g ref="char:EOLhyphen"/>quiſh this promiſe, vow, and Proteſtation, much leſſe to break it for the ſame ends, and to make others to doe the like; This betray<g ref="char:EOLhyphen"/>ing others thereunto, and making them guilty of the breach of ſo ſolemne a Vow, is an offence of an high nature both to God and our Governonrs.</p>
+            <p>Finally, I am not bound in any Article thereof, farther then I may lawfully perform it, The Law being the harmonious ſcope, bounds, and limits of my Proteſtation, And therefore I may not unlawfully doe any thing that may tend to the breach or contra<g ref="char:EOLhyphen"/>diction of any Article thereof.</p>
+            <p>Moreover, the manner of the proceed<g ref="char:EOLhyphen"/>ing doth not ſatisfie me.</p>
+            <p>Firſt, Becauſe it is not done in that right way it ought to be. For that which is to go under the name of a County or Towne, ought to be firſt aſſented unto by the She<g ref="char:EOLhyphen"/>riffe, Iuſtice of peace, or other Magiſtrates reſpectively, and then the matter may be pub<g ref="char:EOLhyphen"/>likely propounded, and condiſcended unto or contradicted, that men may be encoura<g ref="char:EOLhyphen"/>ged
+<pb n="6" facs="tcp:112904:5"/>or diſſwaded, by good reaſons <hi>pro</hi> and <hi>con.</hi>
+            </p>
+            <p>And this is that lawfull and uſuall way for Election of Knights and Burgeſſes for the Parliament, and of other Officers and Matters concerning the publike; Wherefore Clandeſtine and ſurreptitious actions, going about from houſe to houſe by night, and without the conſent and commiſſion of au<g ref="char:EOLhyphen"/>thority, to engage people to the breach of their proteſtation, and to make it as an act of a County or a Towne, and in a manner to force men thereunto, are but unlawfull works of darkneſſe, and will not endure the light.</p>
+            <p>Secondly, It is juſtly to be feared that theſe ways are ſiniſter in the Vndertakers, being very probable that ſome of them doe it out of ill will, hatred and malice, as well to the Government as the Governours, or for fa<g ref="char:EOLhyphen"/>vour and affection to ſome whom they ſup<g ref="char:EOLhyphen"/>poſe it pleaſeth, or for gaine and profit, or feare of diſpleaſure of Land-lords and Cu<g ref="char:EOLhyphen"/>ſtomers, or for vain glory, that it may be ſaid, This is the <hi>Babel</hi> which they have wrought
+<pb n="7" facs="tcp:112904:5"/>with their own hands. And ſome few of theſe ſhall engage and prejudice others (and not without cauſe as it is to be feared) by falſe informations and reaſons to make men ſubſcribe.</p>
+            <p>Thirdly, The like ſiniſter proceedings are to be ſuppoſed in the ſubſcriber.</p>
+            <p>Theſe kinds of wayes by Tumults and Multitudes without legall allegations and probations to compaſſe that by will which you cannot obtaine by reaſon, is of a very dangerous conſequence, and threatens the ſubverſion of all Law, Government, and Governours, for which of them, bee they never ſo good, ſhall be ſecure, if the Multi<g ref="char:EOLhyphen"/>tude of diſtempered people pleaſe to will the contrary?</p>
+            <p>Theſe cauſe much diſtractions, Hinder the proceeding of the State, and the reliefe of the oppreſſed, break our bleſſed Vnitie, and bring the actors within the compaſſe of a puniſhment from the law of God and Man, for not walking according to the ex<g ref="char:EOLhyphen"/>preſſed Statutes contained therein.</p>
+            <p>Furthermore, this doth not agree with
+<pb n="8" facs="tcp:112904:6"/>that light of Reaſon, and Vnderſtanding, which God hath given me to walk by, nor that Chriſtian experience which I have gai<g ref="char:EOLhyphen"/>ned under the Croſſe.</p>
+            <p>Firſt, That for the vice or abuſe of any thing, the right and lawfull uſe thereof, or execution of the office, ſhould be aboliſhed and taken away, or that for the preſent par<g ref="char:EOLhyphen"/>ticular offences of ſome, the innocent poſte<g ref="char:EOLhyphen"/>rity ſhall ſuffer; For I am not convinced in my conſcience of the unlawfulneſſe of the Office of a Biſhop, and am perſwaded that there have beene many of them godly and zealous Martyrs for the Truth, and many of them remayne ſtill godly and religious pro<g ref="char:EOLhyphen"/>teſtants.</p>
+            <p>Secondly, Though time of proſperity hath made ſome of them guilty of foule of<g ref="char:EOLhyphen"/>fences, and it may be with the children of <hi>Iſrael</hi> they have not worſhipped the true God as they ought, and have inclined to I<g ref="char:EOLhyphen"/>dolatry, and thereby juſtly provoked the Almighty to wrath and indignation againſt them: Yet I am perſwaded, that for the very execution of their Office, and the Eccleſia<g ref="char:EOLhyphen"/>ſticall
+<pb n="9" facs="tcp:112904:6"/>laws, for the unitie and peace of the Church, they ſuffer inſtrumentally by divers ill affected to Government, or by ſuch as have been puniſhed by them for doing con<g ref="char:EOLhyphen"/>trary thereunto. And if the like proceedings may be ſuffered againſt all Iudges and other Executioners of the laws of the Kingdome, there ſhall bee no ſecure execution of the law againſt offenders, and ſo wee ſhall live lawleſſe, and let in all manner of Diſorder, and Vice, Murther, Rapine, and the like. Thoſe Biſhops rather (under correction) that have done contrary to the law, are to be puniſhed by the law, on due &amp; true proofs, and not according to your wils.</p>
+            <p>Thirdly, Becauſe that which is or ſeems to be a prejudice now, may in Gods good time prove a great benefit, We many times earne<g ref="char:EOLhyphen"/>ſtly pray for thoſe things which afterwards we heartily give God thanks for not granting our requeſts, And this hath many times been for the removall of our preſent afflictions. I am confident if there were good care taken (as there may be) that good men may be made Biſhops, wee ſhall never repent of
+<pb n="10" facs="tcp:112904:7"/>their lawfull office or place, for greatneſſe with goodneſſe will much advance the cauſe and welfare of the Church and Com<g ref="char:EOLhyphen"/>mon-wealth, and farther, I know it is poſſi<g ref="char:EOLhyphen"/>ble for ſome inferiours to execute the Law and the Goſpell likewiſe, in a farre more im<g ref="char:EOLhyphen"/>perious and Tyrannicall way then ſome Su<g ref="char:EOLhyphen"/>periours have done.</p>
+            <p>Fourthly, That though there be Obſta<g ref="char:EOLhyphen"/>cles and Mountains in the way, and the ſup<g ref="char:EOLhyphen"/>poſed enemies of Gods Church and Chil<g ref="char:EOLhyphen"/>dren, yet as I am a Chriſtian I dare not judge them, or curſe them as many doe, or uſe any unlawfull means to remove them, (or under the pretence of pulling down one <hi>Babell</hi> to ſet up another:) What <hi>David</hi> did by way of prediction, as hee was a King and Prophet, againſt the inveterate and incurable enemies of the Church of God, I as an ordinary Chriſtian ought not to doe, I may live perad<g ref="char:EOLhyphen"/>venture to ſee my enemies deſert upon them, which I may not deſire to ſee.</p>
+            <p>I am to judge charitably of the actions and intentions of my Governours, what I think peradventure is for my hurt, may be
+<pb n="11" facs="tcp:112904:7"/>intended, or at leaſtwiſe turned to my good, I muſt walke by the Rule of Gods Word, and follow the examples and precepts of my Saviour, <hi>To pray for them that hate mee, and to doe good to them that perſecute me,</hi> And not forget to pray for all that are in au<g ref="char:EOLhyphen"/>thority, that I may live a godly life under them in all peace and quietneſſe. Why may I not ſuſpect that this long enjoyment of the Goſpel in peace and plenty, hath produced evill effects in mee aſwell as in my Gover<g ref="char:EOLhyphen"/>nours? But be my Governours what they will I have learned to obey all their lawfull commands, and thank God that I may live under ſo happy a command; If they com<g ref="char:EOLhyphen"/>mand me to do no otherwiſe the what is juſt and right, I muſt and will willingly doe it. Neither dare I neglect my duty to them, though they forget theirs to me: For their offences and neglects to mee ſhall not excuſe mee to God nor them, for my offences and not performances of mine to either of them.</p>
+            <p>Fifthly, I dare not but look at the hand of God, &amp; not at the inſtrument only of my af<g ref="char:EOLhyphen"/>flictions,
+<pb n="12" facs="tcp:112904:8"/>I know nothing can come to paſſe but by his permiſſion. I am aſſured that ſinne is the prime cauſe of all my ſuffe<g ref="char:EOLhyphen"/>rings, and I feare that ingratiude in not be<g ref="char:EOLhyphen"/>ing thankfull, and walking worthy of thoſe great mercies received, hath been a principall cauſe why God hath ſhut up the hearts of ſome of our Governours at this preſent, as is much feared.</p>
+            <p>Sixthly, I know God will correct his children for their ſins, and in the execution of his judgments on the World he will be<g ref="char:EOLhyphen"/>gin at his owne houſe, either to worke out ſin, or to worke in grace, or to make that Grace more manifeſt which is already wrought. I know that the end of Gods correction is Reformation, till then, if ſmal<g ref="char:EOLhyphen"/>ler afflictions will not prevaile greater ſhall, if not one kind then an other, if the ſword of our enemies doe not, the ſwords perad<g ref="char:EOLhyphen"/>venture of our own amongſt our ſelves ſhal, if not they, peradventure the Peſtilence, or the Famine, or ſome other ſhall. Sundry of which ſometimes come together, to let the World know, that our afflictions come not
+<pb n="13" facs="tcp:112904:8"/>
+               <hi>immediate</hi> from any one ſecondary &amp; inſtru<g ref="char:EOLhyphen"/>mentall cauſe, but that it is from the wil and pleaſure of the Almighty ſo to order and to diſpoſe it, who will not take off his judge<g ref="char:EOLhyphen"/>ments as the effects, till our ſins as the cauſes be removed.</p>
+            <p>Seventhly, I dare not uſe any unlawfull means to eaſe my affliction, I know no bet<g ref="char:EOLhyphen"/>ter way then by Humiliation and Prayer to God for a ſight of thoſe ſinnes whereby I have provoked him to wrath, and for grace, and true repentance for the ſame, and Re<g ref="char:EOLhyphen"/>miſſion by the merits of my Saviour Ieſus Chriſt; And then to apply my ſelfe with all diligence to all lawfull meanes to remove them, yet I am not to put too much confi<g ref="char:EOLhyphen"/>dence in them. I could never yet finde any benefit by impatience under the hand of the Almighty, I have found more afflictions procured thereby, and I am aſſured that the Church and Children of God never loſt by patient ſuffering.</p>
+            <p>Eighthly, As I know that Gods Decree in his determination of judgments ſhall be ful<g ref="char:EOLhyphen"/>filled, ſo I am confidently aſſured, that when
+<pb n="14" facs="tcp:112904:9"/>the time of his deliverance is come, all the power and ſubtilty of the Devill and his inſtruments, as they ſhall go no further then he hath limited them, ſo they ſhall not hin<g ref="char:EOLhyphen"/>der him from taking off his Rod when hee pleaſeth. For he is able to bring his will to paſſe by means, without means, and contra<g ref="char:EOLhyphen"/>ry to means. Rather then his children ſhall not have their due reliefe, The Sea ſhall part, the Earth ſhall open and ſwallow up their adverſaries, or fire ſhall come downe from Heaven and deſtroy them. And this may comfort Chriſtians, that God reignes and rules as King in Heaven, the cauſe of his Church and Children is his, and he beholds and governes the inhabitants of the earth, he hath the hearts of all in his hand, hee can turn them or overturn them when hee plea<g ref="char:EOLhyphen"/>ſeth for the good of his, When our ways pleaſe him Hee can make our enemies be at peace with us, and the ſame hand to heale us that hath wounded us, It is he only that can make men to be of one heart, and one minde, and to make all things to work to<g ref="char:EOLhyphen"/>gether for the beſt of them that love him.</p>
+            <pb n="15" facs="tcp:112904:9"/>
+            <p>To conclude, I hope by this time you have received full ſatisfaction, why I have refuſed to ſubſcribe, yet let mee aſſure you that if the Parliament ſhall think fit to alter that Government, I dare not, in conſcience, and duty to the Proteſtation, refuſe to be go<g ref="char:EOLhyphen"/>verned by it.</p>
+            <p>Be confident, that not only my Prayers, but my true endevours have been, and by Gods Grace ſhall continue, for Reformati<g ref="char:EOLhyphen"/>on. I know God hath ſuffered many of his deare Saints and Children to fall into great and hainous ſinnes and offences, yet when he hath duly chaſtiſed them, after true repen<g ref="char:EOLhyphen"/>tance hee hath made them greater inſtru<g ref="char:EOLhyphen"/>ments of his Glory, and the good of his Church, then in former times they were.</p>
+            <p>I muſt expect for this, aſwell as the reſt of my endevours for Truth and Peace, your uſuall jeeres, ſcoffs, and cenſures of reproba<g ref="char:EOLhyphen"/>tion and the like, but my comfort is, that God knoweth who are his, and who are the true Friends and Enemies of the Church
+<pb n="16" facs="tcp:112904:10"/>and State, and that I have ſyncerely diſchar<g ref="char:EOLhyphen"/>ged my conſcience, according to that weake talent I have received, in obedience to the Proteſtation, for the good of both.</p>
+            <p>I therefore you ſhall remayne ſtill my ad<g ref="char:EOLhyphen"/>verſaries for ſo doing, peradventure I may for a while longer ſuffer, yet it ſhall comfort me, that it is for wel-doing, Whereas when you ſhall ſuffer as evill doers, you may (without timely repentance) everlaſtingly periſh in the gain-ſayings of <hi>Core.</hi> For though hand joyne hand in hand, God will not ſuffer the wicked to goe unpuniſhed. If you find any Materiall errour herein in<g ref="char:EOLhyphen"/>forme and convince mee thereof, and I doe aſſure you on the Faith of a true Prote<g ref="char:EOLhyphen"/>ſtant, I will endevour Reformation, the like I commend unto you hereby, and expect the ſame from you as a triall of your profeſſion, which I ſhall plainly diſcover if wilfully you continue and perſiſt in a known errour, and ſo I bid you Farewell,</p>
+            <p>Remayning a conſtant Friend to Truth
+<pb n="17" facs="tcp:112904:10"/>and Peace, the only ſupport under God of the welfare of the Church and State,</p>
+            <closer>
+               <signed>And Yours <hi>I. W.</hi>
+               </signed>
+               <dateline>
+                  <date>
+                     <hi>Ianuarii primo</hi> 1641.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
